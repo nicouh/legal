@@ -1,4 +1,4 @@
-# Privacy Policy for [Your App Name]
+# Privacy Policy for Visual Snow Relaxation
 
 _Last updated: October 2025_
 
