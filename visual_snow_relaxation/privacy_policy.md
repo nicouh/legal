@@ -9,15 +9,14 @@ Your privacy is important to us. This Privacy Policy explains in detail what kin
 
 ## 1. General Principles
 We respect your privacy and are committed to protecting your personal data.  
-The App itself does **not** collect, store, or share personal information directly.  
+The App itself does **not** collect, store, or share personal information like names, identifiers, precise location, or others directly, but does store limited diagnostic information (e.g. number app start ups, android version, device model, country/language).
 However, third-party services integrated into the App, such as **Google AdMob**, may automatically collect certain information.  
 
 ---
 
-## 2. Information We Do Not Collect
+## 2. Information We Do Not Collect and Do Collect
 - We do not require you to create an account.  
-- We do not know nor store your name, email address, phone number, or location.  
-- We do not track your activity across apps or websites.  
+- We do not know nor store your name, email address, or phone number, or others.
 - We do not use analytics services to track your behavior.  
 
 ---
